@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookProject</string>
+    <string name="book_app">Book App</string>
+    <string name="book_name">Name:</string>
+    <string name="author">Author:</string>
+    <string name="pages">Number of pages</string>
+</resources>
